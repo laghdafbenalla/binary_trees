@@ -1,4 +1,4 @@
-# C - Binary trees
-Authors
-Mebrahtom Kahsay
-Tilahun Mengistu
+# C - Binary Trees 🌳
+**Authors:**
+- Laghdaf ben alla
+- Benalla Aiman
